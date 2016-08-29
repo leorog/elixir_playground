@@ -1,0 +1,2 @@
+%{"gen_stage": {:hex, :gen_stage, "0.5.0", "758068f3a81286e342a609d668e9624714c2e4d43cc26699ead04d1680fde6c6", [:mix], []},
+  "poolboy": {:hex, :poolboy, "1.5.1", "6b46163901cfd0a1b43d692657ed9d7e599853b3b21b95ae5ae0a777cf9b6ca8", [:rebar], []}}
